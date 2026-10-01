@@ -1,31 +1,51 @@
-# Hi, I'm Redouane 👋
+<div align="center">
 
-**Web designer & developer** — I build fast, mobile-first websites and online stores for restaurants, shops and growing businesses.
+# Redouane — Web Designer & Developer
 
-🇫🇷 Je travaille en français et en anglais · 📍 Based in Morocco, working remotely with clients in France and worldwide
+**Premium websites, online stores and ordering systems for restaurants & businesses.**
+Fast · Elegant · Mobile-first · Bilingual 🇫🇷 FR / 🇬🇧 EN
 
-### 🌐 Portfolio
-**[→ View all my projects (Project Hub)](https://radwanad121-wq.github.io/project-hub/)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-e4b363?style=for-the-badge)](https://radwanad121-wq.github.io/project-hub/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+212%20663%20601%20520-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212663601520)
+[![Email](https://img.shields.io/badge/Email-radwanad121%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radwanad121@gmail.com)
 
-### 🚀 Featured work
+</div>
 
-| Project | What it is | Live demo |
+---
+
+### 🍽️ Featured — Maison Saffron (restaurant + online store)
+
+<a href="https://radwanad121-wq.github.io/restaurant-store/"><img src="https://images.unsplash.com/photo-1600663791817-d74f5196ba29?auto=format&fit=crop&w=1200&h=500&q=80" alt="Maison Saffron" width="100%"></a>
+
+A complete website for a Parisian restaurant: cinematic animations, interactive menu, **online shop with cart & promo codes**, click & collect / delivery checkout, **table reservations** and FR/EN.
+👉 **[Open the live site](https://radwanad121-wq.github.io/restaurant-store/)**
+
+### 🚀 More live projects
+
+| | Project | What it does |
 |---|---|---|
-| 🍽️ **Maison Saffron — Restaurant Store** | French restaurant website with digital menu, takeaway & delivery ordering flow | [View live](https://radwanad121-wq.github.io/restaurant-store/) |
-| 🏡 **Atlas Estate** | Real-estate property discovery site (Casablanca, Rabat, Marrakech) | [View live](https://radwanad121-wq.github.io/atlas-estate/) |
-| 🤖 **Atlas AI** | AI assistant product interface & conversation demo | [View live](https://radwanad121-wq.github.io/atlas-ai/) |
-| 📊 **Atlas CRM** | Sales pipeline & customer operations dashboard | [View live](https://radwanad121-wq.github.io/atlas-crm/) |
-| 💰 **Casa Finance** | Personal finance dashboard with analytics | [View live](https://radwanad121-wq.github.io/casa-finance/) |
+| 🏡 | **[Atlas Estate](https://radwanad121-wq.github.io/atlas-estate/)** | Luxury real-estate platform — filtered search, listing galleries, maps, mortgage calculator |
+| 🤖 | **[Atlas AI](https://radwanad121-wq.github.io/atlas-ai/)** | SaaS landing page — interactive AI chat demo, canvas animation, pricing |
+| 📊 | **[Atlas CRM](https://radwanad121-wq.github.io/atlas-crm/)** | Sales CRM — drag-and-drop pipeline, contacts, tasks, live charts, dark mode |
+| 💰 | **[Casa Finance](https://radwanad121-wq.github.io/casa-finance/)** | Personal finance app — budgets, savings goals, transactions, currency converter |
 
-### 🍴 For restaurants
-- Elegant, bilingual (FR/EN) website that reflects your brand
-- Online menu with photos, prices and allergens
-- Online ordering: click & collect, delivery, table reservations
-- Mobile-first, fast loading, Google-friendly (SEO)
-- Easy updates and ongoing support
+### 🍴 What I build for restaurants
 
-### 🛠️ Tools
-HTML · CSS · JavaScript · TypeScript · Next.js · React · Tailwind · Vercel · GitHub Pages
+- ✨ Custom, premium website that reflects your brand (FR / EN)
+- 📋 Online menu with photos, prices & allergens + QR code for tables
+- 🛒 Online ordering: click & collect, delivery, Stripe / Apple Pay
+- 🎁 Online store: gourmet products, gift cards, promo codes
+- 📅 Table reservations with time slots
+- 📍 Local SEO & Google Business profile
 
-### 📫 Let's work together
-Open to new website & online store projects — reach out via my [portfolio](https://radwanad121-wq.github.io/project-hub/).
+### 🛠️ Stack
+
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `GSAP` `Tailwind` `Stripe` `Shopify` `Vercel`
+
+---
+
+<div align="center">
+
+**Let's build your project →** [WhatsApp](https://wa.me/212663601520) · [Email](mailto:radwanad121@gmail.com) · [Portfolio](https://radwanad121-wq.github.io/project-hub/)
+
+</div>
